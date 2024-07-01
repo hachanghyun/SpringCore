@@ -98,15 +98,12 @@
     이 같은 추상화를 통한 구현 방식은 객체지향의 특징 중 하나인 다형성과 객체지향의 다섯 가지 원칙 중 하나인 OCP 원칙을 가장 
     잘 실현해주는 설계 방식이라고 할 수 있습니다.
     결론적으로 Implements 클래스를 유연하게 변경하기 위해서라고 볼수 있다.
-    
-<img width="966" alt="스크린샷 2023-08-15 오후 9 11 04" src="https://github.com/hachanghyun/springCorePrincipleBasic/assets/33058284/9701aa22-e107-4fa9-954b-5c08d6342f45">
 
 #### system.out.println 
 	soutv
 
 #### 프로젝트 재시작 단축키
 	control + shift + R
-<img width="937" alt="스크린샷 2023-08-16 오후 4 46 28" src="https://github.com/hachanghyun/springCorePrincipleBasic/assets/33058284/162c9d06-9c34-47d8-b8aa-008115e2ddb3">
 
 #### 앞에 return 값 담아주는 변수, 객체 자동생성해주는 단축키 (문장끝에서 쓰면 자동생성)
 	option + cmd + v
